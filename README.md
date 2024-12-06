@@ -15,6 +15,7 @@ Download the provided ZIP file and extract its contents to a folder on your PC.
 (3) Getting Started:
 - Refer to the ODD file (PDF) for detailed information about the model's purpose, entities, processes, and design concepts.
 - Additionally, use the guides in the 'guides' folder for a deeper understanding of the UI components and the usage of external files:
+
 1. Using and modifying external CSV files for the model.
 2. Preparing GIS datasets for the AGENTS model.
 3. Navigating the main user interface (UI) components.
@@ -22,7 +23,11 @@ Download the provided ZIP file and extract its contents to a folder on your PC.
 (4) Full code methods connection diagram:https://barakclassnotes.wixsite.com/barakclassnotes/copy-of-agents-model-tutorials
 
 (5) Additionally, a series of YouTube videos explaining how to use the model are available:
+
 Part 1: Introduction to model user interface, covering main controls, sliders, monitors, and the central simulation world map: https://www.youtube.com/watch?v=fzhIniZosUg
+
 Part 2: Detailed explanation of the setup controllers, covering adjustments for initial conditions, climate scenarios, and simulation duration: https://www.youtube.com/watch?v=rmeFqwEObTY
+
 Part 3: Overview of the setup routine, from initializing global variables to creating farms and applying climate and hydrology data: https://www.youtube.com/watch?v=-qb24YyxxMo
+
 Part 4: Breakdown of the go routine, describing the sequence of daily functions, seasonal transitions, and end-of-model run procedures: https://www.youtube.com/watch?v=d87EIC10YcE
