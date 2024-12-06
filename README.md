@@ -6,6 +6,7 @@ How to Use the AGENTS Model
 (1) Download and Extract:
 Download the provided ZIP file and extract its contents to a folder on your PC.
 You also require to pre-install NetLogo 6.4.0 version desktop application in order to be able to run netlogo code (https://ccl.northwestern.edu/netlogo/download.shtml)
+
 (2) Included Files:
 - The .nlogo file: The main model file.
 - External files and folders: Required for the model's operation.
