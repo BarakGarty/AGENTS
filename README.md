@@ -23,9 +23,7 @@ You also require to pre-install NetLogo 6.4.0 version desktop application in ord
 2. Preparing GIS datasets for the AGENTS model.
 3. Navigating the main user interface (UI) components.
 
-(4) Full code methods connection diagram: https://barakclassnotes.wixsite.com/barakclassnotes/copy-of-agents-model-tutorials
-
-(5) Additionally, a series of YouTube videos explaining how to use the model are available:
+(4) Additionally, a series of YouTube videos explaining how to use the model are available:
 
 Part 1: Introduction to model user interface, covering main controls, sliders, monitors, and the central simulation world map: https://www.youtube.com/watch?v=fzhIniZosUg
 
