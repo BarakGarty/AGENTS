@@ -2,7 +2,7 @@
 AGENTS: Agriculture Grape (yield) Evaluation (using) NetLogo (based) Technology Simulation is an agent-based model in NetLogo exploring the socio-ecological and economic dynamics of agricultural production in the Byzantine Negev Highlands, simulating crop yields, water management, and farm decision-making.
 
 Cite this work: 
-Barak Garty, Guy BarOz, Gil Gambash and Sharona T. Levy (2024). Agriculture.Grape.yield.Evaluation.using.NetLogo.based.Technology Simulation (AGENTS): A NetLogo agent-based model developed to assess viticulture efficiency in Byzantine Shivta. Systems Learning & Development Lab, University of Haifa, Israel.
+Barak Garty, Guy BarOz, Gil Gambash and Sharona T. Levy (2024). Agriculture.Grape.yield.Evaluation.using.NetLogo.based.Technology Simulation (AGENTS): A NetLogo agent-based model developed to assess viticulture efficiency in Byzantine Shivta. Systems Learning & Development Lab, University of Haifa, Israel. https://doi.org/10.25937/b356-wh64
 
 How to Use the AGENTS Model
 
